@@ -66,7 +66,7 @@ public class DemoPhoneCodeTest {
 		 			System.out.println("The Response is :- " + response1);
 		 		}
 		 		
-		 		if(response1 instanceof String) {
+		 		if(response1 instanceof Integer) {
 		 			
 		 			System.out.println("Data Type Of Responce Is String ");
 		 			
