@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Practise.DemoCountryNameGetExample">
+      <class name="Practise.DemoCurrencyName">
         <methods>
-          <include name="addResultsToTestRail"/>
           <include name="Example2"/>
+          <include name="addResultsToTestRail"/>
         </methods>
-      </class> <!-- Practise.DemoCountryNameGetExample -->
+      </class> <!-- Practise.DemoCurrencyName -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
